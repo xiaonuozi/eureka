@@ -8,5 +8,5 @@ eureka:
     fetch-registry: false
     #设置服务注册中心的URL，用于client和server端交流
     service-url:
-      defaultZone: http://localhost:8080/eureka/
+      defaultZone: http://127.0.0.1:8080/eureka/
 
