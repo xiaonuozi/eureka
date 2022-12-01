@@ -1,5 +1,5 @@
 server:
-  port: 8000
+  port: 8080
 eureka:
   client:
     #是否将自己注册到Eureka Server,默认为true，由于当前就是server，故而设置成false，表明该服务不会向eureka注册自己的信息
